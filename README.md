@@ -23,47 +23,41 @@
 
 ### 四、功能描述及功能图展示
 
-系统分为：用户、订单处理器、管理员。
+系统分为：用户、管理员。
 
-用户功能：1. 登录、2. 注册、3. 菜品类目、4. 我的购物车、5. 我的订单
+用户功能：1. 登录、2. 所有药方、3. 我的开方记录、4. 我的个人信息
 
-订单处理器：1. 登录、2. 订单
-
-管理员功能：1. 登录、2. 所有菜品、3. 各时间段用餐人数、4. 平均点餐配餐时间
+管理员功能：1. 登录、2. 用户管理、3. 药品管理、4. 药方管理、5. 开方记录
 
 **用户功能图：**
 
 1. 登录
-   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:28:00_image.png)
-2. 注册
-   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:28:08_image.png)
-3. 菜品类目
-   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:27:51_image.png)
-4. 我的购物车
-   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:28:18_image.png)
-5. 我的订单
-   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:28:24_image.png)
-
-**订单处理器：**
-
-1. 登录
-   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:28:00_image.png)
-2. 订单
-   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:28:34_image.png)
+   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:45:30_image.png)
+2. 所有药方
+   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:46:03_image.png)
+3. 我的开方记录
+   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:46:09_image.png)
+4. 我的个人信息
+   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:46:13_image.png)
 
 **管理员功能图：**
 
 1. 登录
-   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:28:00_image.png)
-2. 所有菜品
-   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:28:46_image.png)
-3. 各时间段用餐人数
-   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:28:57_image.png)
-4. 平均点餐配餐时间
-   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:29:03_image.png)
+   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:45:30_image.png)
+2. 用户管理
+   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:46:21_image.png)
+3. 药品管理
+   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:46:28_image.png)
+4. 药方管理
+   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:46:52_image.png)
+   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:46:40_image.png)
+5. 开方记录
+   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:47:05_image.png)
 
 ### 五、数据库展示
 
-![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:29:41_image.png)
+![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2019:47:25_image.png)
+
+
 
 
